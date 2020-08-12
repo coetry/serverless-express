@@ -1,0 +1,1 @@
+This repo is mainly serves as a proof of concept. It should not necessarily be taken as the solid architecture choice for your APIs on Vercel.
